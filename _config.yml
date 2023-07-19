@@ -98,8 +98,8 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 ## theme: landscape
-## theme: Acrylic
-theme: butterfly
+theme: Acrylic
+## theme: butterfly
 
 
 # Deployment
