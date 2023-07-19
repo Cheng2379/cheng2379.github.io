@@ -291,8 +291,8 @@ thirdparty:
       # hits:
       #   per_page: 6
     local_search:
-      enable: false
-      preload: false
+      enable: true
+      preload: true
       CDN:
     
   aplayer:
